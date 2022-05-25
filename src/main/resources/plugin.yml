@@ -1,0 +1,10 @@
+name: Airdrops
+version: '${project.version}'
+main: me.wally.airdrops.Airdrops
+api-version: 1.18
+prefix: Airdrops
+authors: [ Wally ]
+description: A plugin for spawning airdrops for players to fight over
+commands:
+  Airdrop:
+    Description: Gives a player the airdrop item
